@@ -1,1 +1,2 @@
 # Sermon-Buddy
+My project is a program that is used to assist a pastor in delivering a church service. The pastor will design the message and add fill in the blanks as desired. The speaker can also save Bible passages to be used during his service. The message and all corresponding Bible verses will be saved in a database. The application will also be available to church-goers. The congregation will be able to access saved sermons and have interaction during the message.
